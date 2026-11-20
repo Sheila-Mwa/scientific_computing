@@ -1,0 +1,14 @@
+  Newton iterate: r = 0.0500000000   f(r) = -3.997e+05
+  Newton iterate: r = -0.0013383107   f(r) = +2.156e+05
+  Newton iterate: r = 0.0107655264   f(r) = +2.096e+04
+  Newton iterate: r = 0.0122129915   f(r) = +2.523e+02
+  Newton iterate: r = 0.0122308422   f(r) = +3.764e-02
+  Newton iterate: r = 0.0122308449   f(r) = +6.752e-09
+  Newton iterate: r = 0.0122308449   f(r) = -2.561e-09
+
+Newton 1.22308449% (6 it) | Secant 1.22308449% (7 it) | Bisection 1.22308449% (45 it)
+Monthly rate 1.2231% | nominal yearly 14.68% | effective yearly 15.71%
+Total repaid KES 1,392,000 | total interest KES 192,000
+
+What if the instalment is KES 62,000?
+  monthly rate 1.7976%

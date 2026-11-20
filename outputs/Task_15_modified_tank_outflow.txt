@@ -1,0 +1,15 @@
+No noise                     forward h=10: 1.060 | central h=10: 0.040 | central h=20: 0.160  (mean abs error, L/min)
+With +/-3 L sensor noise     forward h=10: 1.093 | central h=10: 0.223 | central h=20: 0.146  (mean abs error, L/min)
+
+ t(min)  true  central h=10 (noisy data)
+    20   -7.68     -7.46
+    30   -8.88     -8.71
+    40  -10.32    -10.41
+    50  -12.00    -12.29
+    60  -13.92    -14.09
+    70  -16.08    -15.92
+    80  -18.48    -18.16
+    90  -21.12    -21.23
+   100  -24.00    -24.47
+
+At t=60 min the tank loses about 13.9 L/min; at t=110 min about 27.1 L/min (the made-up outflow grows over time).

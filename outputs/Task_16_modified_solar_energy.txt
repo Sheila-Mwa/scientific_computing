@@ -1,0 +1,6 @@
+Clear day exact: 32.0856 kWh (= 4.2*24/pi = 32.0856)
+  trapezoid 31.9022 (error 0.1835) | Simpson 32.0865 (error 0.00084)
+  only 5 readings (every 3 h): trapezoid 30.419 | Simpson 32.159
+
+Cloudy day (measured hourly): 23.693 kWh (74% of a clear day)
+Value of clear day: KES 898 | cloudy day: KES 663 | loss KES 235

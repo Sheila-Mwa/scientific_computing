@@ -1,0 +1,4 @@
+Readings every 2 h
+  Trapezoidal: 15.700 kWh | Simpson: 15.800 kWh | difference 0.100 kWh
+Readings every 6 h (parameter change)
+  Trapezoidal: 15.900 kWh | Simpson: 17.800 kWh

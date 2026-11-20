@@ -1,0 +1,8 @@
+Speed at 7:30 -> {'linear': 24.5, 'cubic spline': 23.3, 'PCHIP': 23.1}
+Speed at 8:30 -> {'linear': 18.0, 'cubic spline': 16.5, 'PCHIP': 17.6}
+Speed at 9:15 -> {'linear': 19.8, 'cubic spline': 18.8, 'PCHIP': 18.2}
+
+Leave-one-out test (hide one interior reading, predict it):
+  linear        mean error 3.58 km/h | worst 6.50 km/h
+  cubic spline  mean error 2.58 km/h | worst 4.51 km/h
+  PCHIP         mean error 2.90 km/h | worst 5.64 km/h

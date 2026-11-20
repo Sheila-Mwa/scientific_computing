@@ -1,0 +1,4 @@
+Jacobi            :  354 iterations | max difference from direct solve 2.32e-05
+Gauss-Seidel      :  187 iterations | max difference from direct solve 1.16e-05
+SOR (w=1.56)      :   40 iterations | max difference from direct solve 7.46e-07
+Temperature next to hot edge: 49.8 C | next to top edge: 25.8 C | centre: 35.1 C

@@ -1,0 +1,6 @@
+Linear estimate at 10:30: 23.25 C
+Cubic estimate at 10:30: 23.36 C
+
+--- Parameter change: remove the 11:00 reading (true value 24.0) ---
+Linear estimate at 11:00: 23.750 C  (error 0.250)
+Cubic  estimate at 11:00: 24.109 C  (error 0.109)

@@ -1,0 +1,10 @@
+Original
+  IRR Newton: 11.542461% (4 it)  Secant: 11.542461% (7 it)  NPV at root: 2.27e-12
+Changed (last inflow 2500 -> 1500)
+  IRR Newton: 8.269087% (4 it)  Secant: 8.269087% (6 it)  NPV at root: 3.87e-12
+
+Parameter change: different starting guesses x0 (original cash flows)
+  x0=0.01 : IRR = 11.542461% after 5 iterations
+  x0=0.1  : IRR = 11.542461% after 4 iterations
+  x0=0.5  : IRR = 11.542461% after 8 iterations
+  x0=1.0  : IRR = -154.411050% after 7 iterations

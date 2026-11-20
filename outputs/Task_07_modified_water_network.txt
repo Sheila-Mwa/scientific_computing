@@ -1,0 +1,4 @@
+Peak demand hour: 18 | pressure drop at junction 1 at peak: 6.35
+Largest pressure drop overall: junction 3 value 7.62
+Max residual over all 24 solves: 4.070144838902081e-15
+500 solves of a 400x400 system: repeated solve 0.961s | LU once + reuse 0.036s | speed-up 27.1x

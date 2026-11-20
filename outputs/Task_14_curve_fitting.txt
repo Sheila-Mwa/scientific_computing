@@ -1,0 +1,2 @@
+Original      : y = 0.002167x^2 + -0.1345x + 85.00 | RMSE 1.55 ms | prediction at 400 users 377.9 ms
+With outlier  : y = 0.000524x^2 + 0.6048x + 35.71 | RMSE 35.96 ms | prediction at 400 users 361.4 ms

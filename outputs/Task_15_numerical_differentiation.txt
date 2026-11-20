@@ -1,0 +1,18 @@
+t=0s, position=0.0m, estimated speed=4.80m/s
+t=1s, position=4.8m, estimated speed=5.10m/s
+t=2s, position=10.2m, estimated speed=5.65m/s
+t=3s, position=16.1m, estimated speed=6.25m/s
+t=4s, position=22.7m, estimated speed=6.95m/s
+t=5s, position=30.0m, estimated speed=7.65m/s
+t=6s, position=38.0m, estimated speed=8.00m/s
+
+--- Parameter change: step size h for f(x)=sin(x) at x=1 (exact derivative cos(1)) ---
+h=1e-01  forward error=4.29e-02  central error=9.00e-04
+h=1e-03  forward error=4.21e-04  central error=9.01e-08
+h=1e-05  forward error=4.21e-06  central error=1.11e-11
+h=1e-07  forward error=4.18e-08  central error=1.94e-10
+h=1e-09  forward error=5.25e-08  central error=2.97e-09
+h=1e-11  forward error=1.17e-06  central error=1.17e-06
+h=1e-13  forward error=7.34e-04  central error=1.79e-04
+h=1e-15  forward error=1.48e-02  central error=1.48e-02
+Best forward h ~ 1e-08, best central h ~ 1e-05

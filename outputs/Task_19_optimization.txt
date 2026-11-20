@@ -1,0 +1,6 @@
+cost_B=18.0: A=0.000, B=5.882, cost=105.88, success=True
+   best whole-server combination (cost, A, B, capacity): (108.0, 0, 6, 1020.0)
+cost_B=22.0: A=10.000, B=0.000, cost=120.00, success=True
+   best whole-server combination (cost, A, B, capacity): (120.0, 10, 0, 1000.0)
+cost_B=14.0: A=0.000, B=5.882, cost=82.35, success=True
+   best whole-server combination (cost, A, B, capacity): (84.0, 0, 6, 1020.0)

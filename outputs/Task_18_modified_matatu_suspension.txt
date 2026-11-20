@@ -1,0 +1,4 @@
+Natural frequency 1.30 Hz | critical damping c = 7348 N s/m
+worn     c=   500 damping ratio 0.07 | settles (2%) after 6.98 s | zero-crossings 18 | lowest point -6.46 cm
+healthy  c=  2500 damping ratio 0.34 | settles (2%) after 1.35 s | zero-crossings 3 | lowest point -2.57 cm
+stiff    c=  7000 damping ratio 0.95 | settles (2%) after 0.65 s | zero-crossings 0 | lowest point -0.00 cm

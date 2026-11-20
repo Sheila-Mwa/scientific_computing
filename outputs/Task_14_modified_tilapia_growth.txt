@@ -1,0 +1,5 @@
+Logistic fit: Wmax = 807.3 +/- 13.6 g | k = 0.295 +/- 0.013 per week | t0 = 14.07 +/- 0.20 weeks
+R^2 = 0.9979 | RMSE = 13.2 g
+Predicted week to reach 500 g: 15.7
+Quadratic fit RMSE: 57.5 g
+Prediction at week 40 -> logistic 807 g | quadratic 1563 g (fish cannot shrink!)

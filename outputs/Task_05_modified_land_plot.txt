@@ -1,0 +1,7 @@
+Transformation matrix:
+ [[ 1.0876 -0.3804]
+ [ 0.5071  0.8157]]
+Area before: 3712.5 m2 | after: 4009.5 m2
+|det(M)| = 1.0800 | area ratio = 1.0800
+Inverse check (M^-1 M = I): True
+Recovered original corners: True

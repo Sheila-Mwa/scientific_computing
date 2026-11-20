@@ -1,0 +1,4 @@
+N=1,000,000  loop=0.1829s  vectorized=0.01724s  speed-up=11x
+   first five squared values: [0.03787665 0.01266192 0.04637842 0.03092504 0.00078812]
+N=  100,000  loop=0.0165s  vectorized=0.00013s  speed-up=124x
+N=3,000,000  loop=0.9672s  vectorized=0.03917s  speed-up=25x

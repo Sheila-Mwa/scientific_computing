@@ -1,0 +1,7 @@
+k = 0.12
+  h=5.0 : Euler 25.2662 C | exact 26.7760 C | error 1.5098
+  h=2.0 : Euler 26.0595 C | exact 26.7760 C | error 0.7165
+  h=1.0 : Euler 26.4041 C | exact 26.7760 C | error 0.3720
+  h=0.5 : Euler 26.5870 C | exact 26.7760 C | error 0.1890
+  h=0.1 : Euler 26.7378 C | exact 26.7760 C | error 0.0383
+k = 0.5, h = 5 (k*h = 2.5 > 2): first values [  90.   -72.5  171.2 -194.4  354.1 -468.6]

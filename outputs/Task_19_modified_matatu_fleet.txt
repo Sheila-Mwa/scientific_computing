@@ -1,0 +1,14 @@
+Cost per passenger: van 58.04, bus 55.56 KES
+Need 1500/day, max 12 vehicles
+  continuous optimum: vans 0.00, buses 7.58, cost KES 83,333, solver success True
+  best whole-vehicle plan: cost KES 85,500 with 3 vans + 6 buses (capacity 1524)
+  naive rounding-up gives (0, 8) -> KES 88,000
+Need 2000/day, max 12 vehicles
+  continuous optimum: vans 0.00, buses 10.10, cost KES 111,111, solver success True
+  best whole-vehicle plan: cost KES 112,000 with 2 vans + 9 buses (capacity 2006)
+  naive rounding-up gives (1, 11) -> KES 127,500
+Need 1500/day, max 7 vehicles
+  (solver reports no feasible continuous solution: Positive directional derivative for linesearch)
+  continuous optimum: vans 0.00, buses 7.00, cost KES 77,000, solver success False
+  no whole-vehicle plan satisfies the limits
+  naive rounding-up gives (0, 8) -> KES 88,000

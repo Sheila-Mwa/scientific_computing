@@ -1,0 +1,6 @@
+kg of maize germ, sunflower cake, fish meal: [60. 30. 10.]
+All amounts non-negative: True
+Check A @ x: [ 100.    21.9 1200. ] | residual norm: 0.0
+Condition number: 130.44 | determinant: 1.27
+
+Protein target 10 kg -> [ 78.74  39.37 -18.11] | all non-negative: False

@@ -1,0 +1,9 @@
+Set 1: x=[5. 5. 5.]  residual norm=0.00e+00
+Set 2: x=[5.31707317 5.26829268 4.75609756]  residual norm=1.78e-15
+Set 3: x=[4.90243902 5.6097561  5.53658537]  residual norm=0.00e+00
+Direct solve, set 1: [5. 5. 5.]
+
+--- Parameter change: diagonal 4,4,3 -> 1.42 (almost singular) ---
+Condition number A: 2.39 | condition number B: 489.8
+A: solution shift for b+0.01: 0.0027915910103063868
+B: solution shift for b+0.01: 0.8641056498951378

@@ -1,0 +1,14 @@
+Largest eigenvalue: 3.0704
+  CBD        0.2457  (links: 6)
+  Eastleigh  0.1677  (links: 3)
+  Kasarani   0.1346  (links: 2)
+  Embakasi   0.1346  (links: 2)
+  Westlands  0.1187  (links: 2)
+  Kikuyu     0.1187  (links: 2)
+  Rongai     0.0800  (links: 1)
+Power-iteration check agrees: True
+
+CBD closed: largest eigenvalue 1.4142 | separate groups of stages: 3
+  group 1 : ['Westlands', 'Kikuyu']
+  group 2 : ['Kasarani', 'Embakasi', 'Eastleigh']
+  group 3 : ['Rongai']

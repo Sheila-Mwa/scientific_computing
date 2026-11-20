@@ -1,0 +1,7 @@
+Naive float sum     : 100000.00000133288  (error 1.333e-06)
+math.fsum           : 100000.0
+Decimal sum         : 100000.00
+
+1.10 + 2.20 == 3.30 ? False | isclose: True | value: 3.3000000000000003
+
+True variance ~ 100 | naive formula: 256.00 | stable formula: 97.27

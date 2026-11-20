@@ -1,0 +1,6 @@
+Mean level: 2954 L | min: 700 L | max: 5000 L
+Mean level in cubic metres: 2.95 m3
+Hours at or below 20% full: [19, 20, 21, 22]
+Biggest hourly drop: -400 L between hour 6 and 7
+Total water used (sum of drops): 4450 L
+Total water pumped in (sum of rises): 1500 L

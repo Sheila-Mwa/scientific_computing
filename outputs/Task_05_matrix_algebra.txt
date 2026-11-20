@@ -1,0 +1,33 @@
+
+Original: 45 deg, scale (2, 1.5)
+Transformation matrix:
+[[ 1.4142 -1.0607]
+ [ 1.4142  1.0607]]
+Transformed points:
+[[ 0.      0.    ]
+ [ 1.4142  1.4142]
+ [ 0.3536  2.4749]
+ [-1.0607  1.0607]]
+Determinant: 3.0
+
+Change A: 90 deg, scale (2, 1.5)
+Transformation matrix:
+[[ 0.  -1.5]
+ [ 2.   0. ]]
+Transformed points:
+[[ 0.   0. ]
+ [ 0.   2. ]
+ [-1.5  2. ]
+ [-1.5  0. ]]
+Determinant: 3.0
+
+Change B: 45 deg, scale (2, -1.5) -> mirror
+Transformation matrix:
+[[ 1.4142  1.0607]
+ [ 1.4142 -1.0607]]
+Transformed points:
+[[ 0.      0.    ]
+ [ 1.4142  1.4142]
+ [ 2.4749  0.3536]
+ [ 1.0607 -1.0607]]
+Determinant: -3.0

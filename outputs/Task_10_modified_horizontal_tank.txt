@@ -1,0 +1,7 @@
+Full tank volume: 6032 L (check: pi r^2 L = 6032 L)
+Depth for 4000 L: 1.00736 m  (63.0% of the diameter) after 20 halvings
+Check: volume at that depth = 3999.997 L | SciPy brentq gives 1.00736 m
+First four bracket intervals: [(0.0, 1.6), (0.8, 1.6), (0.8, 1.2), (1.0, 1.2)]
+  1000 L -> depth 0.3560 m
+  3000 L -> depth 0.7967 m
+  5000 L -> depth 1.2360 m

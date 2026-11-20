@@ -1,0 +1,6 @@
+Exact time to empty: 79.06 minutes
+step 10.0 min: height at 60 min = 0.0267 m | exact 0.1453 m | error 0.1186 m
+step  5.0 min: height at 60 min = 0.0888 m | exact 0.1453 m | error 0.0565 m
+step  1.0 min: height at 60 min = 0.1343 m | exact 0.1453 m | error 0.0109 m
+step  0.1 min: height at 60 min = 0.1442 m | exact 0.1453 m | error 0.0011 m
+Euler (step 5) says the tank is empty at t = 70.0 min

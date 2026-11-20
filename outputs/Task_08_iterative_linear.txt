@@ -1,0 +1,12 @@
+Jacobi        : [86.6667 73.3333 60.     46.6667 33.3333] (150 iterations)
+Gauss-Seidel  : [86.6667 73.3333 60.     46.6667 33.3333] (75 iterations)
+Direct        : [86.6667 73.3333 60.     46.6667 33.3333]
+
+--- Parameter change 1: looser tolerance 1e-3 ---
+Jacobi iterations: 70 | Gauss-Seidel iterations: 35
+
+--- Parameter change 2: more grid points ---
+n= 5: Jacobi   150 iterations, Gauss-Seidel    75 iterations
+n=10: Jacobi   486 iterations, Gauss-Seidel   245 iterations
+n=20: Jacobi  1672 iterations, Gauss-Seidel   842 iterations
+n=40: Jacobi  5935 iterations, Gauss-Seidel  2993 iterations

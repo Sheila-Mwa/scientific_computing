@@ -1,0 +1,9 @@
+=== Part 1: original ===
+Daily mean temperature: 23.12 C
+Minimum temperature: 17.50 C
+Maximum temperature: 29.40 C
+First six Fahrenheit readings: [65.3  64.4  64.04 63.5  64.22 66.2 ]
+
+=== Part 2: parameter change (reading at 12:00 replaced by a 45.0 C spike) ===
+original    mean=23.12  median=22.75  max=29.40
+with spike  mean=23.77  median=22.75  max=45.00

@@ -1,0 +1,9 @@
+Original  dominant eigenvalue: 2.5616
+  A: 0.2192
+  B: 0.2808
+  C: 0.2808
+  D: 0.2192
+  Verification error: 1.9357399876532506e-15
+
+After adding link A-D  eigenvalue: 3.0 scores: [0.25 0.25 0.25 0.25]
+After removing link B-C eigenvalue: 2.0 scores: [0.25 0.25 0.25 0.25]

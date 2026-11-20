@@ -1,0 +1,8 @@
+Exact distances: [3.6056 5.     2.2361] | measured: [3.6206 4.98   2.2501]
+
+Two towers give TWO candidate positions (two circle intersections):
+  guess [2.0, 3.0] -> [2.026 3.001] | residual [-0. -0.] | distance to tower 3 = 2.224 (measured 2.250)
+  guess [2.0, -3.0] -> [ 2.026 -3.001] | residual [-0. -0.] | distance to tower 3 = 8.060 (measured 2.250)
+Third tower picks: [2.026 3.001]
+Using all three towers (least squares): [2.019 2.989] | error vs true position: 22.1 m
+With 300-400 m measurement errors: [2.492 2.799] | position error: 531 m

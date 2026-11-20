@@ -1,0 +1,9 @@
+Radius 2.0  (handout)
+  guess=[1.0, 1.0] -> [1.5175 1.3028]  residual=[-0. -0.]  converged=True
+  guess=[-1.0, 1.0] -> [-1.5175  1.3028]  residual=[-0. -0.]  converged=True
+Radius 1.5
+  guess=[1.0, 1.0] -> [1.3133 0.7247]  residual=[0. 0.]  converged=True
+  guess=[-1.0, 1.0] -> [-1.3133  0.7247]  residual=[0. 0.]  converged=True
+Radius 0.5
+  guess=[1.0, 1.0] -> [ 0.5005 -0.4997]  residual=[0.250206 0.249794]  converged=False
+  guess=[-1.0, 1.0] -> [-0.5005 -0.4997]  residual=[0.250206 0.249794]  converged=False

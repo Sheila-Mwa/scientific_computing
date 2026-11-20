@@ -1,0 +1,5 @@
+Original: estimated 10.6160% | exact (normal tail) 10.5650% | 10616 of 100000
+std 120 -> 200        : estimated 22.6020% | exact 22.6627%
+mean 850 -> 900       : estimated 20.2210% | exact 20.2328%
+N = 1,000 (seed 42)   : estimated 10.1000% | exact 10.5650%
+N = 1,000 (seed 7)    : estimated 8.1000% | exact 10.5650%

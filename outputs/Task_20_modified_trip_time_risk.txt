@@ -1,0 +1,6 @@
+Mean trip 87.0 min | median 82.1 | 90th percentile 112.7 | 95th 123.8
+Leave 06:00: P(late) = 6.38% (+/- 0.11% at 95% confidence)
+Leave 06:20: P(late) = 20.09% (+/- 0.18% at 95% confidence)
+Leave 06:40: P(late) = 55.47% (+/- 0.22% at 95% confidence)
+To be late at most 5% of the time, leave by 05:56
+Only 500 simulations -> P(late, leave 06:20) = 19.2% (compare 20.09% with 200,000)
