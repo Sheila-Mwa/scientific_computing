@@ -1,6 +1,8 @@
-# BIT 2118 Scientific Computing - Group Work (individual submission)
+# BIT 2118 Scientific Computing - Group Work 
 
-**Student:** Just-Iann  |  **Course:** BIT 2118 Scientific Computing
+### Name: Sheila Njeri Mwangi
+### Registration Number: BSCCS/2025/68619
+### Course: Bsc. Computer Science
 
 This repository is my own submission for the Scientific Computing group work. We discussed the tasks as a group, but the code, data and write-ups here are my own. For every task I did what the instructions ask:
 
